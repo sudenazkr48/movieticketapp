@@ -1,0 +1,5 @@
+1 45 150.00 Dune: Part Two
+2 14 120.00 Oppenheimer
+3 12 100.00 Barbie
+4 27 110.00 The Batman
+5 5 130.00 Interstellar (Tekrar)
